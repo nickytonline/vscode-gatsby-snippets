@@ -17,5 +17,18 @@
       "${11:An article about ${1}}"
     ],
     "description": "Markdown template for GatsbyJS article/post"
+  },
+  "GatsbyJS page": {
+    "prefix": "gp",
+    "body": [
+      "---",
+      "title: \"${1:Title}\"",
+      "layout: page",
+      "path: \"\/${2:${TM_DIRECTORY/\\/.+\\/(.+)$/$1/}}\/\"",
+      "---",
+      "",
+      "${3:A page about ${1}}"
+    ],
+    "description": "Markdown template for GatsbyJS page"
   }
 }
