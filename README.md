@@ -6,6 +6,10 @@ Markdown snippets for GatsbyJS. [vscode-gatsby-snippets](https://marketplace.vis
 
 ## Release Notes
 
+### 1.0.2
+
+Added cheesy icon.
+
 ### 1.0.1
 
 Added the GatbsyJS markdown page snippet.
