@@ -2,7 +2,7 @@
     "name": "vscode-gatsby-snippets",
     "displayName": "vscode-gatsby-snippets",
     "description": "Visual Studio Code code snippets for use with the GatsbyJS static site generator for React.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "nickytonline",
     "repository": {
         "type": "git",
