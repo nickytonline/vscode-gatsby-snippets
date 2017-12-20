@@ -1,0 +1,21 @@
+{
+  "Markdown templates for GatsbyJS": {
+    "prefix": "ga",
+    "body": [
+      "---",
+      "title: \"${1:Title}\"",
+      "date: \"20${2:17}-${3:01}-${4:01}T${5:00}:00:00Z\"",
+      "layout: post",
+      "draft: ${6|true,false|}",
+      "path: \"${7:${TM_DIRECTORY/\\/.+\\/(.+)$/$1/}}\"",
+      "category: \"${8:Category}\"",
+      "description: \"${9:Description}\"",
+      "tags:",
+      "  - \"${10:Tag}\"",
+      "---",
+      "",
+      "${11:An article about ${1}}"
+    ],
+    "description": "Markdown templates for GatsbyJS"
+  }
+}
