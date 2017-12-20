@@ -1,6 +1,6 @@
 # vscode-gatsby-snippets README
 
-Creates all the boilerplate for an article/blog post required by GatsbyJS.
+Markdown snippets for GatsbyJS. [vscode-gatsby-snippets](https://marketplace.visualstudio.com/items?itemName=nickytonline.vscode-gatsby-snippets) is available on the VS Code Marketplace.
 
 ![Gatsby JS snippets in action](images/snippet-in-action.gif)
 
