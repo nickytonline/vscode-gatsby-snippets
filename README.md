@@ -1,5 +1,7 @@
 # vscode-gatsby-snippets README
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nickytonline/vscode-gatsby-snippets.svg)](https://greenkeeper.io/)
+
 Markdown snippets for GatsbyJS. [vscode-gatsby-snippets](https://marketplace.visualstudio.com/items?itemName=nickytonline.vscode-gatsby-snippets) is available on the VS Code Marketplace.
 
 ![Gatsby JS snippets in action](images/snippet-in-action.gif)
