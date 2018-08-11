@@ -30,5 +30,21 @@
       "${3:A page about ${1}}"
     ],
     "description": "Markdown template for GatsbyJS page"
-  }
+  },
+  "Import Gatsby link": {
+		"scope": "javascript,typescript",
+		"prefix": "gil",
+		"body": [
+			"import { Link } from 'gatsby' ",
+		],
+		"description": "Add Import Link from Gatsby"
+	},
+	"Import graphql from Gatsby": {
+		"scope": "javascript,typescript",
+		"prefix": "gig",
+		"body": [
+			"import { graphql } from 'gatsby'",
+		],
+		"description": "Adds Import graphql from Gatsby"
+	}
 }
