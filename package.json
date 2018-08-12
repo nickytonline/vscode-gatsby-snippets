@@ -34,6 +34,22 @@
       {
         "language": "markdown",
         "path": "./snippets/markdown-snippets.json"
+    },
+    {
+      "language": "javascriptreact",
+      "path": "./snippets/react-snippets.json"
+    },
+    {
+      "language": "javascript",
+      "path": "./snippets/react-snippets.json"
+    },
+    {
+      "language": "typescript",
+      "path": "./snippets/react-snippets.json"
+    },
+    {
+      "language": "typescriptreact",
+      "path": "./snippets/react-snippets.json"
       }
     ]
   },
