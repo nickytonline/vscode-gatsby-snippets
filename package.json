@@ -1,26 +1,45 @@
 {
-    "name": "vscode-gatsby-snippets",
-    "displayName": "vscode-gatsby-snippets",
-    "description": "Visual Studio Code code snippets for use with the GatsbyJS static site generator for React.",
-    "version": "1.0.3",
-    "publisher": "nickytonline",
-    "icon": "images/gatsby-snippets-icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/nickytonline/vscode-gatsby-snippets.git"
-    },
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "markdown",
-                "path": "./snippets/markdown-snippets.json"
-            }
-        ]
-    }
+  "name": "vscode-gatsby-snippets",
+  "displayName": "vscode-gatsby-snippets",
+  "description": "Visual Studio Code code snippets for use with the GatsbyJS static site generator for React.",
+  "version": "1.0.3",
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.json": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "printWidth": 80
+  },
+  "publisher": "nickytonline",
+  "icon": "images/gatsby-snippets-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickytonline/vscode-gatsby-snippets.git"
+  },
+  "engines": {
+    "vscode": "^1.19.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "markdown",
+        "path": "./snippets/markdown-snippets.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "husky": "0.14.3",
+    "lint-staged": "7.2.0",
+    "prettier": "1.14.2"
+  }
 }
