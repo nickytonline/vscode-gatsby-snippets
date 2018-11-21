@@ -1,0 +1,86 @@
+{
+  "gatsby-image-sharp fixed fragment": {
+    "prefix": "gfi",
+    "body": [
+      "...GatsbyImageSharpFixed"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fixed / no base64 fragment": {
+    "prefix": "gfino",
+    "body": [
+      "...GatsbyImageSharpFixed_noBase64"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fixed / traced SVG fragment": {
+    "prefix": "gfisvg",
+    "body": [
+      "...GatsbyImageSharpFixed_tracedSVG"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fixed / with Webp fragment": {
+    "prefix": "gfiwp",
+    "body": [
+      "...GatsbyImageSharpFixed_withWebp"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fixed / Webp / no base64 fragment": {
+    "prefix": "gfiwpno",
+    "body": [
+      "...GatsbyImageSharpFixed_withWebp_noBase64"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fixed / Webp / traced SVG fragment": {
+    "prefix": "gfiwpsvg",
+    "body": [
+      "...GatsbyImageSharpFixed_withWebp_tracedSVG"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fluid fragment": {
+    "prefix": "gfl",
+    "body": [
+      "...GatsbyImageSharpFluid"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fluid / no base64 fragment": {
+    "prefix": "gflno",
+    "body": [
+      "...GatsbyImageSharpFluid_noBase64"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fluid / traced SVG fragment": {
+    "prefix": "gflsvg",
+    "body": [
+      "...GatsbyImageSharpFluid_tracedSVG"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fluid / with Webp fragment": {
+    "prefix": "gflwp",
+    "body": [
+      "...GatsbyImageSharpFluid_withWebp"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fluid / with Webp / no base64 fragment": {
+    "prefix": "gflwbno",
+    "body": [
+      "...GatsbyImageSharpFluid_withWebp_noBase64"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  },
+  "gatsby-image-sharp fluid / with Webp / traced SVG fragment": {
+    "prefix": "gflwpsvg",
+    "body": [
+      "...GatsbyImageSharpFluid_withWebp_tracedSVG"
+    ],
+    "description": "gatsby-transformer-sharp graphql fragment"
+  }
+}

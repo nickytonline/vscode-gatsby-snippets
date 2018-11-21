@@ -1,0 +1,72 @@
+{
+    "gatsby-source-contentful fixed fragment": {
+      "prefix": "gscfi",
+      "body": [
+        "...GatsbyContentfulFixed"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fixed / no base64 fragment": {
+      "prefix": "gscfino",
+      "body": [
+        "...GatsbyContentfulFixed_noBase64"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fixed / traced SVG fragment": {
+      "prefix": "gscfisvg",
+      "body": [
+        "...GatsbyContentfulFixed_tracedSVG"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fixed / with Webp fragment": {
+      "prefix": "gscfiwp",
+      "body": [
+        "...GatsbyContentfulFixed_withWebp"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fixed / with Webp / no base64 fragment": {
+      "prefix": "gscfiwpno",
+      "body": [
+        "...GatsbyContentfulFixed_withWebp_noBase64"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fluid fragment": {
+      "prefix": "gscfl",
+      "body": [
+        "...GatsbyContentfulFluid"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fluid / no base64 fragment": {
+      "prefix": "gscflno",
+      "body": [
+        "...GatsbyContentfulFluid_noBase64"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fluid / traced SVG fragment": {
+      "prefix": "gscflsvg",
+      "body": [
+        "...GatsbyContentfulFluid_tracedSVG"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fluid / with Webp fragment": {
+      "prefix": "gscflwp",
+      "body": [
+        "...GatsbyContentfulFluid_withWebp"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    },
+    "gatsby-source-contentful fluid / with Webp / no base64 fragment": {
+      "prefix": "gscflwpno",
+      "body": [
+        "...GatsbyContentfulFluid_withWebp_noBase64"
+      ],
+      "description": "gatsby-source-contentful graphql fragment"
+    }
+}

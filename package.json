@@ -54,6 +54,18 @@
       {
         "language": "typescriptreact",
         "path": "./snippets/react-snippets.json"
+      },
+      {
+        "language": "graphql",
+        "path": "./snippets/gatsby-image-sharp-graphql-fragments.json"
+      },
+      {
+        "language": "graphql",
+        "path": "./snippets/gatsby-source-contentful-graphql-fragments.json"
+      },
+      {
+        "language": "graphql",
+        "path": "./snippets/gatsby-source-datocms-graphql-fragments.json"
       }
     ]
   },
