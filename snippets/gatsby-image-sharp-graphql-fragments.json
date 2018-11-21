@@ -70,7 +70,7 @@
     "description": "gatsby-transformer-sharp graphql fragment"
   },
   "gatsby-image-sharp fluid / with Webp / no base64 fragment": {
-    "prefix": "gflwbno",
+    "prefix": "gflwpno",
     "body": [
       "...GatsbyImageSharpFluid_withWebp_noBase64"
     ],
