@@ -1,0 +1,30 @@
+{
+      "gatsby-source-datocms fixed fragment": {
+        "prefix": "gsdfi",
+        "body": [
+          "...GatsbyDatoCmsFixed"
+        ],
+        "description": "gatsby-source-datocms graphql fragment"
+      },
+      "gatsby-source-datocms fixed / no base64 fragment": {
+        "prefix": "gsdfino",
+        "body": [
+          "...GatsbyDatoCmsFixed_noBase64"
+        ],
+        "description": "gatsby-source-datocms graphql fragment"
+      },
+      "gatsby-source-datocms fluid fragment": {
+        "prefix": "gsdfl",
+        "body": [
+          "...GatsbyDatoCmsFluid"
+        ],
+        "description": "gatsby-source-datocms graphql fragment"
+      },
+      "gatsby-source-datocms fluid / no base64 fragment": {
+        "prefix": "gsdflno",
+        "body": [
+          "...GatsbyDatoCmsFluid_noBase64"
+        ],
+        "description": "gatsby-source-datocms graphql fragment"
+      }
+}
