@@ -20,3 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.1.0
 
 - Added GraphQL snippets for image sharp, contentful and datocms. Thanks for the [PR](https://github.com/nickytonline/vscode-gatsby-snippets/pull/7) [Tyler Barnes](https://github.com/TylerBarnes)!
+
+## 1.1.1
+
+- Updated cheesy logo
