@@ -24,3 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.1.1
 
 - Updated cheesy logo
+
+## 1.1.2
+
+- Changed the name of the package to Gatsby Snippets
